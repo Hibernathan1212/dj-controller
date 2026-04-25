@@ -3561,7 +3561,7 @@
 		(property "Reference" "RV18"
 			(at 6.05 -10.15 90)
 			(layer "F.SilkS")
-			(uuid "f13d6042-e11a-4e06-8ebd-031441930244")
+			(uuid "7bbb3c21-0518-4092-b6d2-f4673516ffee")
 			(effects
 				(font
 					(size 1 1)
@@ -3572,7 +3572,7 @@
 		(property "Value" "R_Potentiometer"
 			(at 6.05 5.15 90)
 			(layer "F.Fab")
-			(uuid "be21348e-28f7-4f3d-9796-17a8c895ce99")
+			(uuid "19bd2ea3-85b7-4aad-ba82-2f5fa0d00e65")
 			(effects
 				(font
 					(size 1 1)
@@ -3584,7 +3584,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ddf55cbe-fbfe-4b46-a2ee-e1a316179d1b")
+			(uuid "38d1128c-2ffa-4dc6-b808-f9b791322ee6")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3595,7 +3595,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "dd190cf2-ef1d-493b-8e9b-e8239681468b")
+			(uuid "aea23c2a-d0d8-4c8a-9e1e-65912441495f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21328,7 +21328,7 @@
 			(clearance 0.5)
 		)
 		(min_thickness 0.25)
-		(fill yes
+		(fill
 			(thermal_gap 0.5)
 			(thermal_bridge_width 0.5)
 			(island_removal_mode 0)

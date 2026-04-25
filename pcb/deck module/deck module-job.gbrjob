@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "10.0.0"
     },
-    "CreationDate": "2026-03-31T22:34:40+07:00"
+    "CreationDate": "2026-04-24T22:29:45+07:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -34,48 +34,8 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "deck module-F_Cu.gbr",
-      "FileFunction": "Copper,L1,Top",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "deck module-B_Cu.gbr",
-      "FileFunction": "Copper,L2,Bot",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "deck module-F_Paste.gbr",
-      "FileFunction": "SolderPaste,Top",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "deck module-B_Paste.gbr",
-      "FileFunction": "SolderPaste,Bot",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "deck module-F_Silkscreen.gbr",
-      "FileFunction": "Legend,Top",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "deck module-B_Silkscreen.gbr",
-      "FileFunction": "Legend,Bot",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "deck module-F_Mask.gbr",
-      "FileFunction": "SolderMask,Top",
-      "FilePolarity": "Negative"
-    },
-    {
-      "Path": "deck module-B_Mask.gbr",
-      "FileFunction": "SolderMask,Bot",
-      "FilePolarity": "Negative"
-    },
-    {
-      "Path": "deck module-Edge_Cuts.gbr",
-      "FileFunction": "Profile",
+      "Path": "deck module-User_Eco2.gbr",
+      "FileFunction": "Other,User",
       "FilePolarity": "Positive"
     }
   ],

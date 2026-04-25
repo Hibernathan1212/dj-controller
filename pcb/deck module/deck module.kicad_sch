@@ -6799,7 +6799,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 170.18 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -7087,7 +7087,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 129.54 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -7271,7 +7271,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 148.59 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -7440,7 +7440,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 170.18 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -8188,7 +8188,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 189.23 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -8554,7 +8554,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 148.59 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -8961,7 +8961,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 189.23 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -10291,7 +10291,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 170.18 127 0)
 			(hide yes)
 			(show_name no)
@@ -10371,7 +10371,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 129.54 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -10451,7 +10451,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 189.23 127 0)
 			(hide yes)
 			(show_name no)
@@ -11039,7 +11039,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 148.59 127 0)
 			(hide yes)
 			(show_name no)
@@ -11223,7 +11223,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 189.23 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -11407,7 +11407,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 129.54 127 0)
 			(hide yes)
 			(show_name no)
@@ -11487,7 +11487,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 129.54 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -11685,7 +11685,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 170.18 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -11961,7 +11961,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 148.59 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -12159,7 +12159,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 129.54 88.9 0)
 			(hide yes)
 			(show_name no)
